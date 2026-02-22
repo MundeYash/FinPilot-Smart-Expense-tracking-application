@@ -1,0 +1,26 @@
+/* ...existing code... */
+
+
+.categoryDot {
+    width: 0.75rem;
+    height: 0.75rem;
+    border-radius: 9999px;
+    background-color: var(--dot-color, #9ca3af);
+}
+
+.transactionIconContainer{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--icon-bg, rgba(156, 163, 175, 0.15));
+}
+
+.transactionIconDot {
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 9999px;
+    background-color: var(--icon-color, #9ca3af);
+}
