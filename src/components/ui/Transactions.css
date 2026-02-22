@@ -1,0 +1,16 @@
+
+/* Transaction icon styling with dynamic color support */
+.transaction-icon-bg {
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.transaction-icon-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+}
